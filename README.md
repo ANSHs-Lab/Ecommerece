@@ -22,10 +22,3 @@ This is a basic e-commerce website built using HTML, CSS, and SCSS. The website 
 
 - **Ansh**
 - **Bhoomi**
-
-## Installation
-
-To view or modify the project, clone the repository to your local machine:
-
-```bash
-git clone [repository-url]
